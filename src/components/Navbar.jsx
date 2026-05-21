@@ -6,14 +6,14 @@ function Navbar() {
 	return (
 		<nav
 			className="sticky top-0 z-50 flex items-center justify-between
-                    px-6 py-4 bg-[black]/80 backdrop-blur-md
+                    px-6 py-4 bg-[#09090b]/80 backdrop-blur-md
                     border-b border-white/5 shadow-lg shadow-black/40"
 		>
 			{/* ── Brand ──────────────────────────────────────────────── */}
 			<NavLink
 				to="/"
 				className="text-xl font-bold tracking-tight text-white hover:text-indigo-400 transition-colors duration-200"
-				style={{ fontFamily: "revert, sans-serif" }}
+				style={{ fontFamily: "revert, 'DM Serif Display', serif" }}
 			>
 				📖 E-Library
 			</NavLink>
