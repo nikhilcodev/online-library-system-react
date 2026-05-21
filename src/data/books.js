@@ -18,7 +18,7 @@ export const INITIAL_BOOKS = [
 		description:
 			"A story of the fabulously wealthy Jay Gatsby and his love for the beautiful Daisy Buchanan, set against the Jazz Age backdrop of Long Island.",
 		rating: 4.5,
-		cover: "https://covers.openlibrary.org/b/id/8432523-L.jpg",
+		cover: "https://covers.openlibrary.org/b/id/106149-M.jpg",
 		popular: true,
 	},
 	{
@@ -29,7 +29,7 @@ export const INITIAL_BOOKS = [
 		description:
 			"Set in the distant future, Dune tells the story of young Paul Atreides whose family accepts stewardship of the desert planet Arrakis — the only source of the most valuable substance in the universe.",
 		rating: 4.8,
-		cover: "https://covers.openlibrary.org/b/id/8231856-L.jpg",
+		cover: "https://covers.openlibrary.org/b/id/14653909-M.jpg",
 		popular: true,
 	},
 	{
@@ -40,7 +40,7 @@ export const INITIAL_BOOKS = [
 		description:
 			"The complete adventures of the world's greatest consulting detective, Sherlock Holmes, and his loyal companion Dr. Watson.",
 		rating: 4.9,
-		cover: "https://covers.openlibrary.org/b/id/8739161-L.jpg",
+		cover: "https://covers.openlibrary.org/b/id/8242351-M.jpg",
 		popular: true,
 	},
 	{
@@ -51,7 +51,7 @@ export const INITIAL_BOOKS = [
 		description:
 			"A brief history of humankind, exploring how Homo sapiens came to dominate Earth and the cognitive, agricultural, and scientific revolutions that shaped our world.",
 		rating: 4.7,
-		cover: "https://covers.openlibrary.org/b/id/10527843-L.jpg",
+		cover: "https://covers.openlibrary.org/b/id/8284312-M.jpg",
 		popular: true,
 	},
 	{
@@ -62,7 +62,7 @@ export const INITIAL_BOOKS = [
 		description:
 			"The tale of a magically gifted young man who grows to be the most notorious wizard his world has ever seen, told through his own vivid recollections.",
 		rating: 4.6,
-		cover: "https://covers.openlibrary.org/b/id/8353722-L.jpg",
+		cover: "https://covers.openlibrary.org/b/id/12391248-M.jpg",
 		popular: true,
 	},
 	{
@@ -73,7 +73,7 @@ export const INITIAL_BOOKS = [
 		description:
 			"Based on more than forty interviews with Jobs conducted over two years, as well as interviews with more than a hundred family members, friends, adversaries, competitors, and colleagues.",
 		rating: 4.4,
-		cover: "https://covers.openlibrary.org/b/id/8739199-L.jpg",
+		cover: "https://covers.openlibrary.org/b/id/12680694-M.jpg",
 		popular: true,
 	},
 	{
@@ -84,7 +84,7 @@ export const INITIAL_BOOKS = [
 		description:
 			"A proven framework for improving every day. James Clear reveals practical strategies that will teach you exactly how to form good habits, break bad ones, and master the tiny behaviours that lead to remarkable results.",
 		rating: 4.8,
-		cover: "https://covers.openlibrary.org/b/id/10521808-L.jpg",
+		cover: "https://covers.openlibrary.org/b/id/15217381-M.jpg",
 		popular: true,
 	},
 	{
@@ -95,7 +95,7 @@ export const INITIAL_BOOKS = [
 		description:
 			"A landmark book exploring how history and biology have defined us — and enhanced our understanding of what it means to be human.",
 		rating: 4.6,
-		cover: "https://covers.openlibrary.org/b/id/10527843-L.jpg",
+		cover: "https://covers.openlibrary.org/b/id/9137127-L.jpg",
 		popular: false,
 	},
 	{
@@ -106,7 +106,7 @@ export const INITIAL_BOOKS = [
 		description:
 			"A dystopian social science fiction novel set in a totalitarian superstate where Big Brother watches every move you make. A chilling portrait of a society stripped of freedom.",
 		rating: 4.8,
-		cover: "https://covers.openlibrary.org/b/id/8575708-L.jpg",
+		cover: "https://covers.openlibrary.org/b/id/15145130-M.jpg",
 		popular: false,
 	},
 	{
@@ -117,7 +117,7 @@ export const INITIAL_BOOKS = [
 		description:
 			"The first novel in Asimov's classic science-fiction masterpiece featuring the brilliant Hari Seldon who creates a plan to preserve the knowledge of mankind and shorten the dark age of the future.",
 		rating: 4.7,
-		cover: "https://covers.openlibrary.org/b/id/8406786-L.jpg",
+		cover: "https://covers.openlibrary.org/b/id/14612980-M.jpg",
 		popular: false,
 	},
 	{
@@ -128,7 +128,7 @@ export const INITIAL_BOOKS = [
 		description:
 			"On a warm summer morning in North Carthage, Missouri, it is Nick and Amy Dunne's fifth wedding anniversary. Presents are being wrapped and plans are being made — until Amy's disappearance turns everything upside down.",
 		rating: 4.2,
-		cover: "https://covers.openlibrary.org/b/id/9325386-L.jpg",
+		cover: "https://covers.openlibrary.org/b/id/13237760-M.jpg",
 		popular: false,
 	},
 	{
@@ -139,7 +139,7 @@ export const INITIAL_BOOKS = [
 		description:
 			"Bilbo Baggins, a comfort-loving hobbit, is swept into an epic quest with a band of dwarves and the wizard Gandalf, to reclaim the lost dwarf kingdom of Erebor from the dragon Smaug.",
 		rating: 4.9,
-		cover: "https://covers.openlibrary.org/b/id/8406654-L.jpg",
+		cover: "https://covers.openlibrary.org/b/id/10762993-M.jpg",
 		popular: false,
 	},
 ]

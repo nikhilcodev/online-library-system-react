@@ -6,7 +6,7 @@ function Navbar() {
 	return (
 		<nav
 			className="sticky top-0 z-50 flex items-center justify-between
-                    px-6 py-4 bg-[#020617]/80 backdrop-blur-md
+                    px-6 py-4 bg-[black]/80 backdrop-blur-md
                     border-b border-white/5 shadow-lg shadow-black/40"
 		>
 			{/* ── Brand ──────────────────────────────────────────────── */}
